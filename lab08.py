@@ -4,7 +4,7 @@ def print_lyrics():
 
 def repeat_lyrics():
     print_lyrics()
-    
+    print_lyrics()
 
 def main():
     repeat_lyrics()
