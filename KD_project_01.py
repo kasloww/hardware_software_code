@@ -2,7 +2,7 @@ def main():
     print("Hello, I would like to get to know a little about you.")
     print("Please answer a few brief questions.")
 
-    name = input("What is your name? ")
+    name = input("What is your name?")
     college = input(f"{name}, What college are you attending? ")
     high_school = input(f"{name}, What high school did you attend? ")
     fun_institution = input(f"{name}, Which institution is more fun? ")
